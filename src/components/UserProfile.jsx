@@ -24,13 +24,13 @@ const UserProfile = () => {
       <div className="flex gap-5 items-center mt-6 border-color border-b-1 pb-6">
         <img
           className="rounded-full h-24 w-24"
-          src={avatar}
+          src='https://res.cloudinary.com/dtldzc9tg/image/upload/v1668521437/WhatsApp_Image_2022-11-15_at_7.39.12_PM_k4pd4k.jpg'
           alt="user-profile"
         />
         <div>
-          <p className="font-semibold text-xl dark:text-gray-200"> Michael Roberts </p>
+          <p className="font-semibold text-xl dark:text-gray-200"> Mohammed Shamseer </p>
           <p className="text-gray-500 text-sm dark:text-gray-400">  Administrator   </p>
-          <p className="text-gray-500 text-sm font-semibold dark:text-gray-400"> info@shop.com </p>
+          <p className="text-gray-500 text-sm font-semibold dark:text-gray-400"> shamseer@gmail.com </p>
         </div>
       </div>
       <div>
