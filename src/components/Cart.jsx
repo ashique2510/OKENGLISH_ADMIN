@@ -13,7 +13,7 @@ const Cart = () => {
     <div className="bg-half-transparent w-full fixed nav-item top-0 right-0 ">
       <div className="float-right h-screen  duration-1000 ease-in-out dark:text-gray-200 transition-all dark:bg-[#484B52] bg-white md:w-400 p-8">
         <div className="flex justify-between items-center">
-          <p className="font-semibold text-lg">Shopping Cart</p>
+          <p className="font-semibold text-lg">Data</p>
           <Button
             icon={<MdOutlineCancel />}
             color="rgb(153, 171, 180)"

@@ -1,4 +1,4 @@
-export const host = 'http://localhost:8000';
+export const host = "https://ruby-jolly-hippopotamus.cyclic.app"
 
 export const getAllUser = `${host}/api/users/getAlluser`  
 
