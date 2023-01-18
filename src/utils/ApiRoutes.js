@@ -1,20 +1,19 @@
-export const host = "https://ruby-jolly-hippopotamus.cyclic.app"
+export const host = 'https://ruby-jolly-hippopotamus.cyclic.app';
 
-export const getAllUser = `${host}/api/users/getAlluser`  
+export const getAllUser = `${host}/api/users/getAlluser`;
 
-export const addAnnouncement = `${host}/api/admin/createAnnouncement`
+export const tutorLogin = `${host}/api/tutor/loginTutor`;
 
-export const getAllbooking = `${host}/api/admin/getAllBooking`
+export const adminLogin = `${host}/api/admin/adminLogin`;
 
-export const addTutorDetails = `${host}/api/tutor/addTutor`
+export const addTutorDetails = `${host}/api/tutor/addTutor`;
 
-export const getAllTutorsDetails = `${host}/api/tutor/getAllTutors`  
+export const updateStatus = `${host}/api/users/updateStatus`;
 
-export const adminLogin = `${host}/api/admin/adminLogin`  
+export const getAllbooking = `${host}/api/admin/getAllBooking`;
 
-export const tutorLogin = `${host}/api/tutor/loginTutor`  
+export const getAllTutorsDetails = `${host}/api/tutor/getAllTutors`;
 
-export const getAllTutorBooking = `${host}/api/tutor/getAllTutorsBooking` 
+export const addAnnouncement = `${host}/api/admin/createAnnouncement`;
 
-export const updateStatus = `${host}/api/users/updateStatus`  
-
+export const getAllTutorBooking = `${host}/api/tutor/getAllTutorsBooking`;

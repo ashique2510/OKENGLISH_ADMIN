@@ -21,6 +21,3 @@ export { default as AdminLogin } from './login/AdminLogin';
 export { default as TutorLogin } from './login/TutorLogin';
 export { default as TrainerHome } from './tutorPanel/TrainerHome';
 export { default as TrainerBooking } from './tutorPanel/TrainerBooking';
-
-
-
